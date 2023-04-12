@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: cursive, sans-serif;
 }
 
 body {
@@ -35,6 +34,7 @@ table td {
     color: #dfdfdf;
     font-size: 16px;
     transition: all 500ms ease-in-out;
+    border-radius: 5px;
 }
 
 .btn:hover {
