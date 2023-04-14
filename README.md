@@ -1,13 +1,13 @@
 <h3 align="center">
-📚✖️➕➗🔢 Calculadora simples em JavaScript.
+📚✖️➕➗🔢 Simple calculator in JavaScript.
 </h3>
 
-##  🔖 Informações
+##  🔖 Information
 
-- A calculadora executa as quatro operações básicas usando javascript, html5 e css3 e pode ser usada por iniciantes para aprender.
+- The calculator performs the four basic operations using javascript, html5 and css3 and can be used by beginners to learn.
 
 
-##  🚀 Tecnologias usadas
+##  🚀 Technologies used
 
 <br/>
 <p align="left">
@@ -16,9 +16,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="120" height="120"/>
 </p>
 
-### Funcionalidades:
+### Features:
 
-- Operação de soma
-- Operação de subtração
-- Operação de divisão
-- Operação de multiplicação
+- Sum operation
+- Subtraction operation
+- Division operation
+- Multiplication operation
