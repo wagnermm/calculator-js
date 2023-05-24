@@ -5,19 +5,21 @@
 }
 
 body {
-    background-color: #749795;
-    overflow-x: hidden;
+    background-color: #3a545f;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
 }
 
 .calculator {
     width: 250px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     border-radius: 15px;
     padding: 10px;
-    background-color: #000807;
+    background-color: #000000;
 }
 
 table td {
@@ -30,47 +32,40 @@ table td {
     height: 40px;
     cursor: pointer;
     border: none;
-    background-color: #0c1a21;
+    background-color: #0a141a;
     color: #dfdfdf;
     font-size: 16px;
     transition: all 500ms ease-in-out;
     border-radius: 5px;
+    box-shadow: 1px 2px 2px #fff;
 }
 
 .btn:hover {
     background-color: #162f3b;
 }
 
-.ac {
-    background-color: #1b7269;
+.c {
+    background-color: #811010;
 }
 
-.ac:hover {
-    background-color: #228f84;
-}
-
-.special {
-    background-color: #228f84;
-
-}
-
-.special:hover {
-    background-color: #18646b;
+.c:hover {
+    background-color: #d31111;
 }
 
 .igual {
-    background-color: #1b7269;
+    background-color: #1b4b72;
 }
 
 .igual:hover {
-    background-color: #25968a;
+    background-color: #258e96;
 }
 
 .result {
-    height: 100px;
-    color: #dfdfdf;
+    height: 120px;
+    color: #fff;
     text-align: right;
     font-size: 35px;
     word-wrap: break-word;
-    border-bottom: 1px solid #25968a;
+    border-bottom: 1px solid #fff;
+    overflow: hidden;
 }
