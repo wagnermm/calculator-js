@@ -1,6 +1,6 @@
-<h3 align="start">
- Calculator in React</h3></br> 📚✖️➕➗🔢
-</h3>
+<h1 align="start">
+ Calculator in React 📚✖️➕➗🔢
+</h1>
 
 ##  🔖 Information
 
