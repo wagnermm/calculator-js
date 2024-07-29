@@ -1,5 +1,5 @@
 <h3 align="start">
-📚✖️➕➗🔢 Calculator in React
+ Calculator in React</h3>br> 📚✖️➕➗🔢
 </h3>
 
 ##  🔖 Information
