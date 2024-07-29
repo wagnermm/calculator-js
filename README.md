@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="start">
 📚✖️➕➗🔢 Calculator in React
 </h3>
 
